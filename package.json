@@ -1,13 +1,13 @@
 {
-  "name": "gatsby-starter-tech-blog",
+  "name": "bbmedia-gatsby-starter-tech-blog",
   "version": "1.0.0",
   "description": "A Gatsby Starter Tech Blog template",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bodhicougar/schaas-bbmd-tech-blog"
+    "url": "https://github.com/bodhicougar/bbmd-tech-blog"
   },
-  "author": "Vimalraj Selvam",
+  "author": "blackboxmd",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
